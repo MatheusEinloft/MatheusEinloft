@@ -1,5 +1,4 @@
 - 👋 Hi, I'm @MatheusEinloft
-- 👀 I'm interested in frontend
 - 🌱 I’m currently learning JavaScript, ReactJS, Spring Boot ...
 - 📫 How to reach me https://www.instagram.com/matheuseinloft/
 <!---
