@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @MatheusEinloft
-- 🌱 I’m currently learning JavaScript, ReactJS, Spring Boot ...
+- 🌱 I’m currently learning PHP, Laravel, Html ...
 - 📫 How to reach me https://www.instagram.com/matheuseinloft/
 <!---
 MatheusEinloft/MatheusEinloft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
