@@ -17,3 +17,5 @@
 )
 ![Blog](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white
 )
+
+Apaixonado por tecnologia e por mudar a vida das pessoas atráves da programação!
