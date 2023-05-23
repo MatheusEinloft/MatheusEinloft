@@ -17,4 +17,4 @@
 )
 
 
-Apaixonado por tecnologia e por mudar a vida das pessoas atráves da programação!
+Um cara normal, fuçando e dando uma de cientista maluco por ae!
