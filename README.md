@@ -13,6 +13,3 @@
 )
 ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )
-
-
-Um cara normal, fuçando e dando uma de cientista maluco por ae!
